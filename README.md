@@ -22,7 +22,13 @@ What should be in your header and footer and nav bar? Up to you, but the generic
 * The footer could have the authorship information, including a link to the GitHub repo.
 * The nav bar could have a link to a separate, simple about page.
 
-Stretch goals:
+
+### What Layouts Will I Need?
+
+As is typical of this kind of project at this point, we'll want mobile, tablet, and desktop views. Breakpoints up to you.
+
+
+### Stretch Goals
 
 * Write a README outlining what your challenges and goals were, and how you overcome the first and achieved the second. Talk about the code and layout tools you used.
 * Make the about page the html version of the above README.
