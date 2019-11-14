@@ -23,9 +23,25 @@ What should be in your header and footer and nav bar? Up to you, but the generic
 * The nav bar could have a link to a separate, simple about page.
 
 
+### How Many Photos Should I Have?
+
+At least 15. Otherwise it won't look that albumy.
+
+
+### How Many Commits Should I Have?
+
+```css
+#app {
+  commits: minmax(10, 1fr)
+}
+```
+
+(At least 10, as many as you need.)
+
+
 ### What Layouts Will I Need?
 
-As is typical of this kind of project at this point, we'll want mobile, tablet, and desktop views. Breakpoints up to you.
+As is typical of this kind of project, we'll want mobile, tablet, and desktop views. Breakpoints up to you. But don't make your tablet and desktop view the same. They are _different things_.
 
 
 ### Stretch Goals
